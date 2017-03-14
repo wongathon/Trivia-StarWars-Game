@@ -1,0 +1,27 @@
+h1 {
+}
+
+body{
+	background-image: url("../images/anakin.jpg");
+	background-color: black;
+	font-family: 'Fjalla One', sans-serif;
+	color: yellow;
+	background-size: 200px;
+}
+
+#answer-button, #next-button, #start-button {
+	-webkit-text-stroke-width: 1px;
+  	-webkit-text-stroke-color: grey;
+  	font-size: 150%;
+}
+
+#panel {
+	background-image: url("../images/maxresdefault.jpg");
+	border-style: solid;
+	border-width: 2px;
+	border-color: yellow;
+}
+
+input {
+	margin-bottom: 30px;
+}
